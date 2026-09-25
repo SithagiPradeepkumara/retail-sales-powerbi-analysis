@@ -25,6 +25,7 @@ The project uses the publicly available Superstore retail dataset.
 Dataset source: Kaggle Superstore Dataset
 
 ## Dashboard Pages
+
 ### 1. Executive Sales Overview
 
 Provides an overview of:
